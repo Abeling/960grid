@@ -1,3 +1,43 @@
+    /*
+    Eigen code:
+    */
+.container_12 {
+    border: black solid 3px;
+    border-radius: 30px;
+    background-color: rgba(0,0,255,0.1);
+}
+
+body {
+    background-image: url("afbeeldingen/triangular.png");
+}
+
+h3 {
+    border-bottom: 3px solid black;
+}
+
+h1 {
+    margin-bottom: 70px;
+}
+
+#validatie img {
+    height: 1.5em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+    margin-left: 10px;
+    margin-bottom:10px;
+}
+
+#ouderavond {
+    float: right;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: -80px;
+}
+    /*
+    Eigen code:
+    */
+
 /*
   960 Grid System ~ Core CSS.
   Learn more ~ http://960.gs/
